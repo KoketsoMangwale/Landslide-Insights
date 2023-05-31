@@ -9,6 +9,3 @@ This dataset is stored as a geo database (.gdb) file. It contains 111 408 record
 
 The positions are represented by a geographic cartesian coordinates (x,y) stored in columns NORTHING and EASTING with authority code 'EPSG:2262'. The coordinates are in metres (m)
 
-## Summary of Findings
-
-## Key Insights for Presentation
