@@ -1,4 +1,4 @@
-# Landslide-Insights
+# Landslide-Visualization
 ## by Koketso Mangwale
 
 ## Dataset
